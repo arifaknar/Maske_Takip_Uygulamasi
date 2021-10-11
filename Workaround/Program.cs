@@ -47,9 +47,9 @@ namespace Workaround
             }
 
             Person person1 = new Person();
-            person1.FirstName = "EMİR EFE";
+            person1.FirstName = "Arif";
             person1.LastName = "AKNAR";
-            person1.NationalIdentity = 74404071232;
+            person1.NationalIdentity = 12345678901;
             person1.DateOfBirthYear = 2008;
 
             PttManager pttManager = new PttManager(new PersonManager());
